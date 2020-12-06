@@ -7,5 +7,5 @@ aliases = ["about-us","about-hugo","contact"]
 
 +++
 
-An InfoSec and game dev enthusiast trying out some creative writing.
+An InfoSec and game dev enthusiast just trying to write about random stuff.
 
