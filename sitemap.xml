@@ -3,33 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://patdolovs.github.io/blog/categories/</loc>
-    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+    <loc>https://patdolovs.github.io/blog/about/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://patdolovs.github.io/blog/categories/hugo/</loc>
-    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+    <loc>https://patdolovs.github.io/blog/categories/airpods/</loc>
+  </url>
+  
+  <url>
+    <loc>https://patdolovs.github.io/blog/categories/</loc>
   </url>
   
   <url>
     <loc>https://patdolovs.github.io/blog/</loc>
-    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://patdolovs.github.io/blog/posts/</loc>
-    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://patdolovs.github.io/blog/posts/2020/12/test/</loc>
-    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://patdolovs.github.io/blog/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,6 +29,10 @@
   
   <url>
     <loc>https://patdolovs.github.io/blog/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://patdolovs.github.io/blog/posts/1/01/these-arent-the-airpods-youre-looking-for/</loc>
   </url>
   
 </urlset>

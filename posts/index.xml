@@ -6,18 +6,50 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://patdolovs.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>test</title>
-            <link>https://patdolovs.github.io/blog/posts/2020/12/test/</link>
-            <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+            <title>These aren&#39;t the Airpods you&#39;re looking for</title>
+            <link>https://patdolovs.github.io/blog/posts/1/01/these-arent-the-airpods-youre-looking-for/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             
-            <guid>https://patdolovs.github.io/blog/posts/2020/12/test/</guid>
-            <description>Introduction TEST</description>
-            <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
-<p>TEST</p>
+            <guid>https://patdolovs.github.io/blog/posts/1/01/these-arent-the-airpods-youre-looking-for/</guid>
+            <description>These aren&amp;rsquo;t the Airpods you&amp;rsquo;re looking for No really&amp;hellip; they are not. This is a story about some fake Airpods Pro I recently stumbled upon. What&amp;rsquo;s more interesting, they are easily one of the best fakes I have seen popping up on the Internet. So, without further ado, let&amp;rsquo;s pinpoint details and help you out to spot those fakes.
+Packaging Starting with the box we can already see some subtle differences.</description>
+            <content type="html"><![CDATA[<h2 id="these-arent-the-airpods-youre-looking-for">These aren&rsquo;t the Airpods you&rsquo;re looking for</h2>
+<p>No really&hellip; they are not. This is a story about some fake Airpods Pro I recently stumbled upon. What&rsquo;s more interesting, they are easily one of the best fakes I have seen popping up on the Internet. So, without further ado, let&rsquo;s pinpoint details and help you out to spot those fakes.</p>
+<h2 id="packaging">Packaging</h2>
+<p>Starting with the box we can already see some subtle differences.</p>
+<p><img src="pics%5Ccomparison_box.PNG" alt=""></p>
+<p>The most obvious one being that the original (first picture) has two stickers. You can see some font-weight differences, especially in lines &ldquo;Designed by Apple in California Made in Vietnam/China&rdquo;, model number stamps and serial numbers. The &ldquo;Energy Verified Only&rdquo; stamp seems to be smaller on fakes too.</p>
+<p>Before we go in the detail we can try checking serial numbers on <a href="https://checkcoverage.apple.com">https://checkcoverage.apple.com</a>.</p>
+<p><!-- raw HTML omitted --></p>
+<p>When you open the box, you&rsquo;ll find a set of manuals, Airpods Pro + charging case, a cable and a set of spare ear tips. Everything mentioned is well showcased in Redskull&rsquo;s clip: <a href="https://www.youtube.com/watch?v=iSrhioWdgII">https://www.youtube.com/watch?v=iSrhioWdgII</a>. At 3:00 he mentions the insides of the original&rsquo;s box being made from cardboard. In my case it was made from plastic.</p>
+<p>Additionally, when comparing manuals (2:20 in the Redskull&rsquo;s video) mine looks like a fake.</p>
+<p><img src="pics%5Cfake_manual.PNG" alt=""></p>
+<h2 id="the-charging-case">The Charging Case</h2>
+<p>First thing worth mentioning here is that there should be more space between the hinge and text &ldquo;Designed by Apple in California Assembled in China&rdquo;. While I&rsquo;m already mentioning the hinge, do you see that two-color sparkly effect when the light shines upon it. Yeah, that shouldn&rsquo;t happen. Original has that hinge in a matte finish. You can check it in motion in that Redskull&rsquo;s clip (4:17) mentioned before.</p>
+<p><img src="pics%5Cfake_case.PNG" alt="fake_case"></p>
+<p>Now let&rsquo;s open the case and take a look under the lid.</p>
+<p><img src="pics%5Cunder_lid_comp.PNG" alt=""></p>
+<p>Straight away you can see that the original ones have serial, model number A2190 (which is the model number for Airpods Pro charging case) and 519 mAh battery capacity info on the left side. On the right side there&rsquo;s an FCC logo, universal waste mark and an info 1A for a 5V source. This differs a bit in case of European models where instead of FCC logo you would find a CE logo on the left side.</p>
+<p><img src="pics%5Ceuropean_ldd.PNG" alt=""></p>
+<p>As the icing on the cake, when you try to factory reset the earphones they follow the pattern mentioned on official Apple&rsquo;s support page: <a href="https://support.apple.com/en-us/HT209463">https://support.apple.com/en-us/HT209463</a>. BUT, when the amber lights stops flashing there&rsquo;s is a subtle blue light flashing from the inside of the case, Take note that there shouldn&rsquo;t be any additional led lights other than the status one.</p>
+<h2 id="the-earbuds">The Earbuds</h2>
+<p>This is where the things get really interesting. Visually they are almost identical to the originals. The air vents and proximity sensors are rightfully placed and look just like the real deal. The only difference I was able to spot is that the serial and model number are written a bit too close to the edge where two parts connect. The makers were even careful with the model numbers A2083 for the left pod and A2084 for the right one. Most of the fakes on the Net don&rsquo;t have that attention to details.</p>
+<p><img src="pics%5Cboth_pods.PNG" alt=""></p>
+<p>But that&rsquo;s not all. Let&rsquo;s nitpick a bit here. Since I got those in Europe, there should be an additional &ldquo;CE&rdquo; stamp right below the serial number.</p>
+<h2 id="glitch-in-the-matrix">Glitch in the Matrix</h2>
+<p>Do they work? This is probably the question you&rsquo;ve been asking yourself while reading this. Well, they kinda do. To give a bit of context they were paired with an iPhone running iOS 14.4. They were instantly paired with the phone when unboxed and in the system they manifested themselves just like regular Airpods Pro.</p>
+<p><!-- raw HTML omitted --></p>
+<p>I could customize the controls, switch between noise cancellation and transparency mode and I could even use Siri. On the picture above you can see that the controls UI looks just like the real deal.</p>
+<p>Well you see, I mentioned switching between noise cancellation and transparency. Thing is, while transparency mode worked perfectly, noise cancellation wasn&rsquo;t doing anything. There was little to no difference between regular mode and noise cancellation. As for the sound quality of the earphones, it was actually quite decent.</p>
+<p>So for now, putting noise cancellation aside (some fakes have that working as well), everything looks like the real deal. But there&rsquo;s something they missed. Let&rsquo;s take a screenshot and see some details about those Airpods.</p>
+<p><!-- raw HTML omitted --></p>
+<p>So, the model number checks out. Serial number checks out as well. It even matches across the box and charging case. That&rsquo;s also something that gets ignored while making fakes. Check Redskull&rsquo;s clip mentioned before. Only his box shares the same serial as mine. Case and the software are introducing new ones.</p>
+<p>Okay let&rsquo;s get back to the topic. Remember that I mentioned they missed something? Everything lies in the firmware version 3A283 which is actually a correct value. The firmware got released around September, 2020 around the same time as iOS 14. With that new version there was a feature release called &ldquo;Spatial Audio&rdquo; which is nowhere to be found here. That control UI should have it.</p>
+<h2 id="epilogue">Epilogue</h2>
+<p>Let&rsquo;s try to sum this up and give some extra tips. Because of the general popularity of Apple, their products are often being faked. Be extra careful if you plan to buy them on second-hand market sites. Fakes can be sold in regular electronics stores as well. Check here if your store is on the official Apple reseller list: <a href="https://locate.apple.com">https://locate.apple.com</a>. While checking legitimacy of your product on <a href="https://checkcoverage.apple.com">https://checkcoverage.apple.com</a>. Do remember that fake Airpods can use legit serial numbers and you should consider focusing on details mentioned here.</p>
 ]]></content>
         </item>
         
